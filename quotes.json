@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "1",
+    "text": "It is better to be feared than loved, if you cannot be both.",
+    "author": "Niccolò Machiavelli",
+    "category": "power",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "2",
+    "text": "He who has a why to live for can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "3",
+    "text": "The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing.",
+    "author": "Chanakya",
+    "category": "action",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "4",
+    "text": "The end justifies the means.",
+    "author": "Niccolò Machiavelli",
+    "category": "ambition",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "5",
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "6",
+    "text": "A person should not be too honest. Straight trees are cut first and honest people are screwed first.",
+    "author": "Chanakya",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "7",
+    "text": "Men should be either treated generously or destroyed, because they take revenge for slight injuries - for heavy ones they cannot.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "8",
+    "text": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+    "author": "Friedrich Nietzsche",
+    "category": "trust",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "9",
+    "text": "Even if a snake is not poisonous, it should pretend to be venomous.",
+    "author": "Chanakya",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "10",
+    "text": "If an injury has to be done to a man it should be so severe that his vengeance need not be feared.",
+    "author": "Niccolò Machiavelli",
+    "category": "power",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "11",
+    "text": "Whoever fights monsters should see to it that in the process he does not become a monster.",
+    "author": "Friedrich Nietzsche",
+    "category": "caution",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "12",
+    "text": "A man's enemies have no place in his house.",
+    "author": "Chanakya",
+    "category": "vigilance",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "13",
+    "text": "Everyone sees what you appear to be, few experience what you really are.",
+    "author": "Niccolò Machiavelli",
+    "category": "perception",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "14",
+    "text": "You must have chaos within you to give birth to a dancing star.",
+    "author": "Friedrich Nietzsche",
+    "category": "creativity",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "15",
+    "text": "The biggest guru-mantra is: Never share your secrets with anybody. It will destroy you.",
+    "author": "Chanakya",
+    "category": "secrecy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "16",
+    "text": "There is no avoiding war; it can only be postponed to the advantage of others.",
+    "author": "Niccolò Machiavelli",
+    "category": "conflict",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "17",
+    "text": "The higher we soar, the smaller we appear to those who cannot fly.",
+    "author": "Friedrich Nietzsche",
+    "category": "ambition",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "18",
+    "text": "Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.",
+    "author": "Chanakya",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "19",
+    "text": "The first method for estimating the intelligence of a ruler is to look at the men he has around him.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "20",
+    "text": "To live is to suffer, to survive is to find some meaning in the suffering.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "21",
+    "text": "Before you begin any undertaking, plan carefully.",
+    "author": "Chanakya",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "22",
+    "text": "All men have the natural and inalienable right to hear what I have to say.",
+    "author": "Niccolò Machiavelli",
+    "category": "communication",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "23",
+    "text": "I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage.",
+    "author": "Friedrich Nietzsche",
+    "category": "willpower",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "24",
+    "text": "Learn from the mistakes of others. You can't live long enough to make them all yourself.",
+    "author": "Chanakya",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "25",
+    "text": "Never attempt to win by force what can be won by deception.",
+    "author": "Niccolò Machiavelli",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "26",
+    "text": "The doer alone learneth.",
+    "author": "Friedrich Nietzsche",
+    "category": "action",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "27",
+    "text": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
+    "author": "Chanakya",
+    "category": "knowledge",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "28",
+    "text": "Where the willingness is great, the difficulties cannot be great.",
+    "author": "Niccolò Machiavelli",
+    "category": "determination",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "29",
+    "text": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+    "author": "Friedrich Nietzsche",
+    "category": "individuality",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "30",
+    "text": "Books are as useful to a stupid person as a mirror is useful to a blind person.",
+    "author": "Chanakya",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "31",
+    "text": "The promise given was a necessity of the past: the word broken is a necessity of the present.",
+    "author": "Niccolò Machiavelli",
+    "category": "pragmatism",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "32",
+    "text": "No price is too high to pay for the privilege of owning yourself.",
+    "author": "Friedrich Nietzsche",
+    "category": "independence",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "33",
+    "text": "As soon as the fear approaches near, attack and destroy it.",
+    "author": "Chanakya",
+    "category": "courage",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "34",
+    "text": "A prince never lacks legitimate reasons to break his promise.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "35",
+    "text": "The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind.",
+    "author": "Friedrich Nietzsche",
+    "category": "adaptation",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "36",
+    "text": "Never put your trust in friends; learn how to use enemies.",
+    "author": "Chanakya",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "37",
+    "text": "Princes and governments are far more dangerous than other elements within society.",
+    "author": "Niccolò Machiavelli",
+    "category": "politics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "38",
+    "text": "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.",
+    "author": "Friedrich Nietzsche",
+    "category": "society",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "39",
+    "text": "He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment.",
+    "author": "Chanakya",
+    "category": "detachment",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "40",
+    "text": "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.",
+    "author": "Niccolò Machiavelli",
+    "category": "perception",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "41",
+    "text": "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently.",
+    "author": "Friedrich Nietzsche",
+    "category": "education",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "42",
+    "text": "Do not reveal what you have thought upon doing, but by wise council keep it secret.",
+    "author": "Chanakya",
+    "category": "secrecy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "43",
+    "text": "A sign of intelligence is an awareness of one's own ignorance.",
+    "author": "Niccolò Machiavelli",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "44",
+    "text": "The most common lie is that which one lies to himself; lying to others is relatively an exception.",
+    "author": "Friedrich Nietzsche",
+    "category": "self-awareness",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "45",
+    "text": "Once you start a working on something, don't be afraid of failure and don't abandon it. People who work sincerely are the happiest.",
+    "author": "Chanakya",
+    "category": "perseverance",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "46",
+    "text": "One change always leaves the way open for the establishment of others.",
+    "author": "Niccolò Machiavelli",
+    "category": "change",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "47",
+    "text": "Without music, life would be a mistake.",
+    "author": "Friedrich Nietzsche",
+    "category": "inspiration",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "48",
+    "text": "There is no better test of a man's integrity than his behavior when he is wrong.",
+    "author": "Chanakya",
+    "category": "integrity",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "49",
+    "text": "There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "50",
+    "text": "Thoughts are the shadows of our feelings - always darker, emptier and simpler.",
+    "author": "Friedrich Nietzsche",
+    "category": "psychology",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "51",
+    "text": "A man is great by deeds, not by birth.",
+    "author": "Chanakya",
+    "category": "achievement",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "52",
+    "text": "Men rise from one ambition to another: first, they seek to secure themselves against attack, and then they attack others.",
+    "author": "Niccolò Machiavelli",
+    "category": "ambition",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "53",
+    "text": "All truly great thoughts are conceived while walking.",
+    "author": "Friedrich Nietzsche",
+    "category": "inspiration",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "54",
+    "text": "The fragrance of flowers spreads only in the direction of the wind. But the goodness of a person spreads in all directions.",
+    "author": "Chanakya",
+    "category": "character",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "55",
+    "text": "It is double pleasure to deceive the deceiver.",
+    "author": "Niccolò Machiavelli",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "56",
+    "text": "The advantage of a bad memory is that one enjoys several times the same good things for the first time.",
+    "author": "Friedrich Nietzsche",
+    "category": "perspective",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "57",
+    "text": "Test a servant while in service, a relative in difficulty, a friend in adversity, and a wife in misfortune.",
+    "author": "Chanakya",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "58",
+    "text": "Politics have no relation to morals.",
+    "author": "Niccolò Machiavelli",
+    "category": "politics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "59",
+    "text": "The essence of all beautiful art, all great art, is gratitude.",
+    "author": "Friedrich Nietzsche",
+    "category": "art",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "60",
+    "text": "The one who cannot restrain their anger will suffer direly.",
+    "author": "Chanakya",
+    "category": "self-control",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "61",
+    "text": "He who becomes a Prince through the favor of the people should always keep on good terms with them; which it is easy for him to do, since all they ask is not to be oppressed.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "62",
+    "text": "The future influences the present just as much as the past.",
+    "author": "Friedrich Nietzsche",
+    "category": "perspective",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "63",
+    "text": "There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.",
+    "author": "Chanakya",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "64",
+    "text": "War should be the only study of a prince. He should consider peace only as a breathing-time, which gives him leisure to contrive, and furnishes as ability to execute, military plans.",
+    "author": "Niccolò Machiavelli",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "65",
+    "text": "When marrying, ask yourself this question: Do you believe that you will be able to converse well with this person into your old age?",
+    "author": "Friedrich Nietzsche",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "66",
+    "text": "God is not present in idols. Your feelings are your god. The soul is your temple.",
+    "author": "Chanakya",
+    "category": "spirituality",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "67",
+    "text": "Hatred is gained as much by good works as by evil.",
+    "author": "Niccolò Machiavelli",
+    "category": "human nature",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "68",
+    "text": "Convictions are more dangerous enemies of truth than lies.",
+    "author": "Friedrich Nietzsche",
+    "category": "truth",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "69",
+    "text": "He who is not a tiger in his walkout becomes a jackal in his home.",
+    "author": "Chanakya",
+    "category": "strength",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "70",
+    "text": "The wise man does at once what the fool does finally.",
+    "author": "Niccolò Machiavelli",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "71",
+    "text": "Morality is the herd-instinct in the individual.",
+    "author": "Friedrich Nietzsche",
+    "category": "morality",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "72",
+    "text": "Drop the idea that attachment and love are one thing. They are enemies. It is attachment that destroys all love.",
+    "author": "Chanakya",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "73",
+    "text": "The more sand that has escaped from the hourglass of our life, the clearer we should see through it.",
+    "author": "Niccolò Machiavelli",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "74",
+    "text": "There are no facts, only interpretations.",
+    "author": "Friedrich Nietzsche",
+    "category": "perspective",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "75",
+    "text": "It's the lot of man to strive no matter how content he is.",
+    "author": "Chanakya",
+    "category": "perseverance",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "76",
+    "text": "The best fortress which a prince can possess is the affection of his people.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "77",
+    "text": "Sometimes people don't want to hear the truth because they don't want their illusions destroyed.",
+    "author": "Friedrich Nietzsche",
+    "category": "truth",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "78",
+    "text": "There is poison in the fang of the serpent, in the mouth of the fly and in the sting of a scorpion; but the wicked man is saturated with it.",
+    "author": "Chanakya",
+    "category": "human nature",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "79",
+    "text": "A return to first principles in a republic is sometimes caused by the simple virtues of one man.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "80",
+    "text": "When we are tired, we are attacked by ideas we conquered long ago.",
+    "author": "Friedrich Nietzsche",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "81",
+    "text": "Wealth, a friend, a wife, and a kingdom may be regained, but this body when lost may never be acquired again.",
+    "author": "Chanakya",
+    "category": "health",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "82",
+    "text": "One who deceives will always find those who allow themselves to be deceived.",
+    "author": "Niccolò Machiavelli",
+    "category": "deception",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "83",
+    "text": "A thought comes when it wishes, not when I wish.",
+    "author": "Friedrich Nietzsche",
+    "category": "creativity",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "84",
+    "text": "The life of an uneducated man is as useless as the tail of a dog which neither covers its rear end, nor protects it from the bites of insects.",
+    "author": "Chanakya",
+    "category": "education",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "85",
+    "text": "Benefits should be conferred gradually; and in that way they will taste better.",
+    "author": "Niccolò Machiavelli",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "86",
+    "text": "The man of knowledge must be able not only to love his enemies but also to hate his friends.",
+    "author": "Friedrich Nietzsche",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "87",
+    "text": "Do not be too honest. Honest people are straight trees cut first and the straight path a path of grief.",
+    "author": "Chanakya",
+    "category": "survival",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "88",
+    "text": "The wise man will make tools of what he has, rather than chide the heavens for not giving him what he wishes.",
+    "author": "Niccolò Machiavelli",
+    "category": "adaptability",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "89",
+    "text": "To forget one's purpose is the commonest form of stupidity.",
+    "author": "Friedrich Nietzsche",
+    "category": "purpose",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "90",
+    "text": "The biggest guru-mantra is: never share your secrets with anybody. It will destroy you.",
+    "author": "Chanakya",
+    "category": "secrecy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "91",
+    "text": "I'm not interested in preserving the status quo; I want to overthrow it.",
+    "author": "Niccolò Machiavelli",
+    "category": "revolution",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "92",
+    "text": "The lonely one offers his hand too quickly to whomever he encounters.",
+    "author": "Friedrich Nietzsche",
+    "category": "relationships",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "93",
+    "text": "We should never fret for what is past, nor should we be anxious about the future.",
+    "author": "Chanakya",
+    "category": "mindfulness",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "94",
+    "text": "Of mankind we may say in general they are fickle, hypocritical, and greedy of gain.",
+    "author": "Niccolò Machiavelli",
+    "category": "human nature",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "95",
+    "text": "A politician divides mankind into two classes: tools and enemies.",
+    "author": "Friedrich Nietzsche",
+    "category": "politics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "96",
+    "text": "As soon as the fear approaches near, attack and destroy it.",
+    "author": "Chanakya",
+    "category": "courage",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "97",
+    "text": "There is no surer sign of decay in a country than to see the rites of religion held in contempt.",
+    "author": "Niccolò Machiavelli",
+    "category": "society",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "98",
+    "text": "Arrogance on the part of the meritorious is even more offensive to us than the arrogance of those without merit: for merit itself is offensive.",
+    "author": "Friedrich Nietzsche",
+    "category": "humility",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "99",
+    "text": "The life of a single human being is worth a million times more than all the property of the richest man on earth.",
+    "author": "Chanakya",
+    "category": "humanity",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "100",
+    "text": "The first method for estimating the intelligence of a ruler is to look at the men he has around him.",
+    "author": "Niccolò Machiavelli",
+    "category": "leadership",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "101",
+    "text": "The strong do what they can, the weak accept what they must.",
+    "author": "Thucydides",
+    "category": "power",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "102",
+    "text": "The powerful do what they can and the weak suffer what they must.",
+    "author": "Thucydides",
+    "category": "realism",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "103",
+    "text": "A truly great man will neither trample on a worm nor cringe before an emperor.",
+    "author": "Benjamin Franklin",
+    "category": "character",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "104",
+    "text": "If men were angels, no government would be necessary.",
+    "author": "James Madison",
+    "category": "politics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "105",
+    "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "author": "Nelson Mandela",
+    "category": "courage",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "106",
+    "text": "I must be cruel only to be kind.",
+    "author": "William Shakespeare",
+    "category": "tough love",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "107",
+    "text": "Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship.",
+    "author": "George Orwell",
+    "category": "power",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "108",
+    "text": "The worst form of inequality is to try to make unequal things equal.",
+    "author": "Aristotle",
+    "category": "reality",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "109",
+    "text": "The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves.",
+    "author": "Niccolò Machiavelli",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "110",
+    "text": "What doesn't destroy my enemies, makes them stronger.",
+    "author": "Friedrich Nietzsche",
+    "category": "caution",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "111",
+    "text": "The axe forgets, but the tree remembers.",
+    "author": "African Proverb",
+    "category": "vengeance",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "112",
+    "text": "Those who cannot understand how to put their thoughts on ice should not enter into the heat of debate.",
+    "author": "Friedrich Nietzsche",
+    "category": "self-control",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "113",
+    "text": "When you are ready to serve the world, the world is not ready to be served. When the world is ready to be served, you are not ready to serve it.",
+    "author": "Chanakya",
+    "category": "timing",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "114",
+    "text": "You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes?",
+    "author": "Friedrich Nietzsche",
+    "category": "transformation",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "115",
+    "text": "A kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life.",
+    "author": "Sun Tzu",
+    "category": "irreversibility",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "116",
+    "text": "We are each our own devil, and we make this world our hell.",
+    "author": "Oscar Wilde",
+    "category": "self-sabotage",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "117",
+    "text": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "118",
+    "text": "When one has not had a good father, one must create one.",
+    "author": "Friedrich Nietzsche",
+    "category": "self-reliance",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "119",
+    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi",
+    "category": "strength",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "120",
+    "text": "The greatest hazard of all, losing one's self, can occur very quietly in the world, as if it were nothing at all.",
+    "author": "Søren Kierkegaard",
+    "category": "identity",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "121",
+    "text": "To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "122",
+    "text": "When a man is denied the right to live the life he believes in, he has no choice but to become an outlaw.",
+    "author": "Nelson Mandela",
+    "category": "rebellion",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "123",
+    "text": "He who knows when he can fight and when he cannot will be victorious.",
+    "author": "Sun Tzu",
+    "category": "warfare",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "124",
+    "text": "Remain silent about your intentions until they are realized.",
+    "author": "Chanakya",
+    "category": "secrecy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "125",
+    "text": "When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity.",
+    "author": "Dale Carnegie",
+    "category": "human nature",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "126",
+    "text": "In order to rise from its own ashes, a phoenix first must burn.",
+    "author": "Octavia E. Butler",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "127",
+    "text": "As iron sharpens iron, so one person sharpens another.",
+    "author": "King Solomon",
+    "category": "growth",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "128",
+    "text": "A king only bows down to his queen.",
+    "author": "Anonymous",
+    "category": "pride",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "129",
+    "text": "If you must break the law, do it to seize power: in all other cases observe it.",
+    "author": "Julius Caesar",
+    "category": "ambition",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "130",
+    "text": "Do not look for approval except for the consciousness of doing your best.",
+    "author": "Andrew Carnegie",
+    "category": "self-validation",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "131",
+    "text": "I would rather be feared than loved if I cannot be both.",
+    "author": "Al Capone",
+    "category": "intimidation",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "132",
+    "text": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
+    "author": "Sun Tzu",
+    "category": "preparation",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "133",
+    "text": "The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.",
+    "author": "Thomas Jefferson",
+    "category": "revolution",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "134",
+    "text": "Power concedes nothing without a demand. It never did and it never will.",
+    "author": "Frederick Douglass",
+    "category": "power",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "135",
+    "text": "There is nothing impossible to him who will try.",
+    "author": "Alexander the Great",
+    "category": "determination",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "136",
+    "text": "All war is deception.",
+    "author": "Sun Tzu",
+    "category": "warfare",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "137",
+    "text": "The vision of the eagle is not so sharp as the vision of man, but the eagle can see where man cannot.",
+    "author": "Native American Proverb",
+    "category": "perspective",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "138",
+    "text": "If you want to shine like the sun, first burn like the sun.",
+    "author": "A.P.J. Abdul Kalam",
+    "category": "sacrifice",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "139",
+    "text": "He who loves the more is the inferior and must suffer.",
+    "author": "Thomas Mann",
+    "category": "attachment",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "140",
+    "text": "The weak are always anxious for justice and equality. The strong pay no heed to either.",
+    "author": "Aristotle",
+    "category": "power dynamics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "141",
+    "text": "Appearance blinds, whereas words reveal.",
+    "author": "Oscar Wilde",
+    "category": "deception",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "142",
+    "text": "Great achievements are usually born of great sacrifice, and are never the result of selfishness.",
+    "author": "Napoleon Hill",
+    "category": "achievement",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "143",
+    "text": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+    "author": "Winston Churchill",
+    "category": "conviction",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "144",
+    "text": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "145",
+    "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "author": "Albert Einstein",
+    "category": "perspective",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "146",
+    "text": "If your enemy is secure at all points, be prepared for him. If he is in superior strength, evade him. If your opponent is temperamental, seek to irritate him.",
+    "author": "Sun Tzu",
+    "category": "tactics",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "147",
+    "text": "The man who moves a mountain begins by carrying away small stones.",
+    "author": "Confucius",
+    "category": "persistence",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "148",
+    "text": "Silence is the ultimate weapon of power.",
+    "author": "Charles de Gaulle",
+    "category": "restraint",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "149",
+    "text": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "author": "Bruce Lee",
+    "category": "resilience",
+    "date_added": "2025-03-16"
+  },
+  {
+    "id": "150",
+    "text": "The greatest victory is that which requires no battle.",
+    "author": "Sun Tzu",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+  },
+  {
+   "id": "151",
+    "text": "I was ready to love the whole world, but no one understood me, and I learned to hate. My cheerless youth passed in conflict with myself and society, and fearing ridicule I buried my finest feelings deep in my heart, and there they died.",
+    "author": "Mikhail Lermontov",
+    "category": "wisdom",
+    "date_added": "2025-03-16"
+	}
+]
